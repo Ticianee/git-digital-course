@@ -1,1 +1,4 @@
-Olá, esse projeto ensina você a usar o Git
+# Curso Digital: Git
+
+## Salvando alterações no Git
+* comando git push
